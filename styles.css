@@ -1,0 +1,26 @@
+* {
+    border: 1px red solid;
+    font-family: Helvetica;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.introSentence {
+    text-align: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.codeSample {
+    font-family: Courier;
+    background-color: bisque;
+}
