@@ -1,6 +1,9 @@
 * {
-    border: 1px red solid;
     font-family: Helvetica;
+}
+
+body {
+    background-color: whitesmoke;
 }
 
 h1 {
@@ -9,15 +12,25 @@ h1 {
 
 h2 {
     text-align: center;
-}
-
-.introSentence {
-    text-align: center;
+    color: purple;
 }
 
 table {
     margin-left: auto;
     margin-right: auto;
+    border: 3px purple solid;
+}
+
+thead {
+    background-color: yellow;
+}
+
+th, td {
+    border-bottom: 1px purple solid;
+}
+
+.introSentence {
+    text-align: center;
 }
 
 .codeSample {
